@@ -2,7 +2,7 @@
 #pragma once
 
 #include "Framework/Commands/Commands.h"
-#include "EditorStyleSet.h"
+#include "Styling/AppStyle.h"
 
 
 /**

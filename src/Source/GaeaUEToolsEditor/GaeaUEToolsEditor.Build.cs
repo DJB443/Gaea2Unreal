@@ -18,7 +18,7 @@ public class GaeaUEToolsEditor : ModuleRules
         PublicDependencyModuleNames.AddRange(
             new string[]
             {
-                "Core", "Landscape", "EditorStyle",
+                "Core", "Landscape",
             }
         );
 
